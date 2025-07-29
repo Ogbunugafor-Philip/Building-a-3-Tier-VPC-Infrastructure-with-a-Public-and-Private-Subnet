@@ -13,22 +13,35 @@ The AWS VPC is a foundational service that allows organizations to deploy resour
 ## Objectives
 
 - Establish a secure and scalable networking environment.
+  
 - Enable internet connectivity for public resources.
+  
 - Segregate network traffic for enhanced security.
+  
 - Optimize resource configuration for accessibility and functionality.
 
 ---
 
 ## Project Steps
+
 Step 1: Create a VPC
+
 Step 2: Enable DNS Host Name
+
 Step 3: Create Internet Gate Way
+
 Step 4: Attach Internet Gateway to VPC
+
 Step 5: Create Public Subnets
+
 Step 6: Enable auto assign Public IPv4 address
+
 Step 7: Create Route Tables
+
 Step 8: Edit Association to allow Public Subnet access to the Internet
+
 Step 9: Create the Private Subnets (Webserver and Database server)
+
 
 ## Project Implementation
 
